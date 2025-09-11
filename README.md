@@ -1,4 +1,4 @@
-# Programação de Dispositivos Móveis - Professor Kelson
+# Programação de Dispositivos Móveis - Professor Kelson Almeida
 
 
 
